@@ -3,127 +3,127 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://thecoderslog.github.io/post/hello-world/</loc>
+    <loc>thecoderslog.com/post/hello-world/</loc>
     <lastmod>2019-06-06T21:11:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/post/</loc>
-    <lastmod>2019-06-06T21:11:03-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thecoderslog.github.io/</loc>
+    <loc>thecoderslog.com/post/</loc>
     <lastmod>2019-06-06T21:11:03-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/basic-elements/</loc>
+    <loc>thecoderslog.com/</loc>
+    <lastmod>2019-06-06T21:11:03-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>thecoderslog.com/tags/basic-elements/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/post/basic-elements/</loc>
+    <loc>thecoderslog.com/post/basic-elements/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/css/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thecoderslog.github.io/categories/</loc>
+    <loc>thecoderslog.com/tags/css/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/categories/development/</loc>
+    <loc>thecoderslog.com/categories/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/html/</loc>
+    <loc>thecoderslog.com/categories/development/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/</loc>
+    <loc>thecoderslog.com/tags/html/</loc>
     <lastmod>2018-04-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/post/creating-a-new-theme/</loc>
+    <loc>thecoderslog.com/tags/</loc>
+    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>thecoderslog.com/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/about/</loc>
+    <loc>thecoderslog.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/post/goisforlovers/</loc>
+    <loc>thecoderslog.com/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/post/hugoisforlovers/</loc>
+    <loc>thecoderslog.com/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://thecoderslog.github.io/tags/go/</loc>
+    <loc>thecoderslog.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/golang/</loc>
+    <loc>thecoderslog.com/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/categories/golang/</loc>
+    <loc>thecoderslog.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/hugo/</loc>
+    <loc>thecoderslog.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/templates/</loc>
+    <loc>thecoderslog.com/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/tags/themes/</loc>
+    <loc>thecoderslog.com/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://thecoderslog.github.io/post/migrate-from-jekyll/</loc>
+    <loc>thecoderslog.com/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>thecoderslog.com/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
