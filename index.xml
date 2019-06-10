@@ -6,10 +6,19 @@
     <description>Recent content on The Coder&#39;s Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2019 21:11:03 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 17:49:26 -0500</lastBuildDate>
     
 	<atom:link href="https://thecoderslog.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Flutter &#43; Vim on Linux</title>
+      <link>https://thecoderslog.com/2019/06/flutter-vim-on-linux/</link>
+      <pubDate>Fri, 07 Jun 2019 17:49:26 -0500</pubDate>
+      
+      <guid>https://thecoderslog.com/2019/06/flutter-vim-on-linux/</guid>
+      <description> Flutter + Vin on Linux </description>
+    </item>
     
     <item>
       <title>My First Post</title>
