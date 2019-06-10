@@ -13,10 +13,10 @@
     
     <item>
       <title>Basic HTML Elements</title>
-      <link>https://thecoderslog.com/post/basic-elements/</link>
+      <link>https://thecoderslog.com/2018/04/basic-html-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://thecoderslog.com/post/basic-elements/</guid>
+      <guid>https://thecoderslog.com/2018/04/basic-html-elements/</guid>
       <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
     </item>
     

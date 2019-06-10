@@ -6,35 +6,44 @@
     <description>Recent content on The Coder&#39;s Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Jun 2019 21:11:03 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 17:49:26 -0500</lastBuildDate>
     
 	<atom:link href="https://thecoderslog.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Flutter &#43; Vim on Linux</title>
+      <link>https://thecoderslog.com/2019/06/flutter-vim-on-linux/</link>
+      <pubDate>Fri, 07 Jun 2019 17:49:26 -0500</pubDate>
+      
+      <guid>https://thecoderslog.com/2019/06/flutter-vim-on-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>My First Post</title>
-      <link>https://thecoderslog.com/post/hello-world/</link>
+      <link>https://thecoderslog.com/2019/06/my-first-post/</link>
       <pubDate>Thu, 06 Jun 2019 21:11:03 -0500</pubDate>
       
-      <guid>https://thecoderslog.com/post/hello-world/</guid>
+      <guid>https://thecoderslog.com/2019/06/my-first-post/</guid>
       <description>&lt;p&gt;This is my first post using Hugo as Static Site Generator&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Basic HTML Elements</title>
-      <link>https://thecoderslog.com/post/basic-elements/</link>
+      <link>https://thecoderslog.com/2018/04/basic-html-elements/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://thecoderslog.com/post/basic-elements/</guid>
+      <guid>https://thecoderslog.com/2018/04/basic-html-elements/</guid>
       <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://thecoderslog.com/post/creating-a-new-theme/</link>
+      <link>https://thecoderslog.com/2014/09/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://thecoderslog.com/post/creating-a-new-theme/</guid>
+      <guid>https://thecoderslog.com/2014/09/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
@@ -54,10 +63,10 @@ Setup Some fun facts about Hugo:
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://thecoderslog.com/post/goisforlovers/</link>
+      <link>https://thecoderslog.com/2014/04/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://thecoderslog.com/post/goisforlovers/</guid>
+      <guid>https://thecoderslog.com/2014/04/hugo-template-primer/</guid>
       <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
 its template engine. It is an extremely lightweight engine that provides a very
 small amount of logic. In our experience that it is just the right amount of
@@ -68,10 +77,10 @@ similarities in Go templates.&lt;/p&gt;</description>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://thecoderslog.com/post/hugoisforlovers/</link>
+      <link>https://thecoderslog.com/2014/04/getting-started-with-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://thecoderslog.com/post/hugoisforlovers/</guid>
+      <guid>https://thecoderslog.com/2014/04/getting-started-with-hugo/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
@@ -82,10 +91,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://thecoderslog.com/post/migrate-from-jekyll/</link>
+      <link>https://thecoderslog.com/2014/03/migrate-to-hugo-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://thecoderslog.com/post/migrate-from-jekyll/</guid>
+      <guid>https://thecoderslog.com/2014/03/migrate-to-hugo-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
